@@ -9,8 +9,6 @@
 ##
 - 👨‍🎓 Computer Science Student.
 - 📚 UX/UI Design.
-- 👩‍💻 Data Scientist.
-
 
 ### Skills
 ##
