@@ -12,12 +12,12 @@
 
 ### Skills
 ##
-- 🐍 Python.
-- 🗄 SQL.
-- 🧮 Power BI.
-- 🔮 Machine Learning.
-- 📊 Data Visualization.
-- 🔍 Research
+- HTML & CSS.
+- JavaScript.
+- React.
+- UX/UI Design.
+- Prototipação.
+- Research
   
 ##
 <div align="center">
